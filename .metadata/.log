@@ -1,0 +1,26 @@
+!SESSION 2012-06-05 14:56:27.202 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.7.0_01
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.je.product
+Command-line arguments:  -data D:\GitWorkspace\bdt -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.je.product
+
+!ENTRY org.eclipse.equinox.app 0 0 2012-06-05 14:56:28.217
+!MESSAGE Product org.eclipse.epp.package.je.product could not be found.
+
+!ENTRY org.eclipse.ui 4 4 2012-06-05 14:58:10.295
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2012-06-05 14:58:43.904 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.7.0_01
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.je.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.je.product
+
+!ENTRY org.eclipse.equinox.app 0 0 2012-06-05 14:58:44.857
+!MESSAGE Product org.eclipse.epp.package.je.product could not be found.
+
+!ENTRY org.eclipse.ui 4 4 2012-06-05 14:59:03.341
+!MESSAGE Invalid preference page path: XML Syntax
