@@ -24,3 +24,16 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.
 
 !ENTRY org.eclipse.ui 4 4 2012-06-05 14:59:03.341
 !MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2012-06-19 20:07:11.578 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.je.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.je.product
+
+!ENTRY org.eclipse.equinox.app 0 0 2012-06-19 20:07:12.484
+!MESSAGE Product org.eclipse.epp.package.je.product could not be found.
+
+!ENTRY org.eclipse.ui 4 4 2012-06-19 20:08:55.375
+!MESSAGE Invalid preference page path: XML Syntax

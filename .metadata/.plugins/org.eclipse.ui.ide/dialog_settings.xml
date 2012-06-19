@@ -12,18 +12,18 @@
 		<item value="org.maven.ide.eclipse.feature:0.12.1.20110112-1712"/>
 		<item value="org.polarion.eclipse.team.svn.connector.svnkit16:2.2.2.I20110819-1700"/>
 		<item value="org.polarion.eclipse.team.svn.connector:2.2.2.I20110819-1700"/>
-		<item value="org.testng.eclipse:6.3.2.20111203_1323"/>
+		<item value="org.testng.eclipse:6.4.0.20120308_1617"/>
 	</list>
 	<section name="ChooseWorkspaceDialogSettings">
 		<item value="211" key="DIALOG_Y_ORIGIN"/>
 		<item value="346" key="DIALOG_X_ORIGIN"/>
 	</section>
-	<section name="WORKBENCH_SETTINGS">
-		<list key="ENABLED_TRANSFERS">
-		</list>
-	</section>
 	<section name="ExternalProjectImportWizard">
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
 	</section>
 </section>
