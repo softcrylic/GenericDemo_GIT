@@ -12,7 +12,7 @@
  <parameter name="os" value="win"/> 
  <parameter name="dataSource" value=""/> 
  <classes>
- <class name="Transactions.GmailTest">
+ <class name="Transections.GmailTest">
  <methods> <include name="GoogleTest"/>
  </methods>
   </class> 

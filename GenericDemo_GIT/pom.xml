@@ -3,6 +3,15 @@
   <groupId>GenericDemo_GIT</groupId>
   <artifactId>GenericDemo_GIT</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  	<plugins>
+  		<plugin>
+  			<groupId>org.apache.maven.plugins</groupId>
+  			<artifactId>maven-jar-plugin</artifactId>
+  			<version>2.4</version>
+  		</plugin>
+  	</plugins>
+  </build>
   <dependencies>
     <dependency>
   		<groupId>org.seleniumhq.selenium</groupId>
