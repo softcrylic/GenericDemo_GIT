@@ -4,7 +4,7 @@
   <artifactId>GenericDemo_GIT</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  <testSourceDirectory>src/Actions</testSourceDirectory>
+  <testSourceDirectory>src/main/java</testSourceDirectory>
   	<plugins>
   		<plugin>
   			<groupId>org.apache.maven.plugins</groupId>
