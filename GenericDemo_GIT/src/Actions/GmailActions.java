@@ -11,7 +11,7 @@ public class GmailActions {
 		this.driver = driver;
 		this.sb = sb;
 		this.logger = logger;
-	}
+	} 
 
 	public WebDriver doGmailTest() throws Exception {
 		try {
@@ -26,7 +26,7 @@ public class GmailActions {
 			return driver;
 		}
 		try {
-			// Look for search textbox and enter search term there
+			// Look for search textbox and enter search term there - Adding extra comments
 			WebElement searchBox = driver.findElement(By.name("q"));
 			searchBox.sendKeys("WebDriver API");
 			logger.createTestStepWithImage("Type in WebDriver API", "Sucess",
