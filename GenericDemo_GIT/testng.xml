@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Suite"> 
+<parameter name="requestId" value="888"/> 
+<parameter name="reportPath" value="D:\Reports"/> 
+<parameter name="Environment" value="internal"/>
+ <parameter name="ApplicationToTest" value="https://gmail.com/"/> 
+ <parameter name="ExecutionType" value="parallel"/> 
+ <test name="AccountMaintenanceTest" preserve-order="true"> 
+ <parameter name="browser" value="ff"/> 
+ <parameter name="browserVersion" value="12"/> 
+ <parameter name="os" value="win"/> 
+ <parameter name="dataSource" value=""/> 
+ <classes>
+ <class name="Transections.GmailTest">
+ <methods> <include name="GoogleTest"/>
+ </methods>
+  </class> 
+  </classes> 
+  </test> 
+  </suite>
